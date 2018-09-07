@@ -1,0 +1,6 @@
+framework module XYYPatientSDK {
+  umbrella header "XYYPatientSDK.h"
+
+  export *
+  module * { export * }
+}
